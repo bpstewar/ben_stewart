@@ -1,18 +1,18 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: gh-pages
 
 website:
   title: "Benjamin P. Stewart"
   navbar:
     left:
-      - href: index.qmd
+      - href: docs/index.qmd
         text: Home
-      - href: about.qmd
+      - href: docs/about.qmd
         text: Curriculum Vitae
-      - href: research.qmd
+      - href: docs/research.qmd
         text: Publications
-      - href: projects.qmd
+      - href: docs/projects.qmd
         text: Projects
 
 format:
