@@ -1,0 +1,29 @@
+---
+title: "Project, tools, platforms etc."
+---
+
+# Tools and libraries
+In addition to several libraries below, I have administered the World Bank's organizational Github account for a decade, including through the recent transition to an enterprise solution.
+
+| Type | Title | Description |
+| --- | --- | --- |
+| Database and toolset | [Space2Stats](https://worldbank.github.io/DECAT_Space2Stats/readme.html) | Provide academics, statisticians, and data scientists with easier access to regularly requested geospatial aggregate data |
+| Python library | [GOSTnets](https://github.com/worldbank/GOSTNets) and [GOSTnetsraster](https://github.com/worldbank/GOSTNetsraster) | Market access tools using vector and raster analysis |
+| Python library | [GOSTurban](https://github.com/worldbank/GOSTurban) | Implementation of the [GHS-SMOD classification](https://human-settlement.emergency.copernicus.eu/degurba.php) tools in python |
+
+# Training, teaching, and courses
+| Date | Location | Title | Description |
+| --- | --- | --- | --- |
+| 2026 | Washington, DC | Geospatial Masterclass (Link TBD) | Developed and managed a series of trainings on geospati0al tools for data scientists at the World Bank |
+| 2025 | Rome, Italy | Spaceborne EO Technology for Agricultural Data Workshop | Supported the organization of the week-long event in collaboration with [ESA GDA](https://gda.esa.int/) and the World Bank's [IED](https://www.wbginstitute.org/) |
+| 2024 | Accra, Ghana | [EMP-A: OnSSET electrification planning](https://www.uneca.org/eca-events/EMP-A-2024) | Trained government, academic, and private sector colleagues in the use of [OnSSET](http://www.onsset.org/) for energy planning. This is the most recent training that is part of the [Global Electrification Platform's training program](https://gep-user-guide.readthedocs.io/en/latest/GEP%20Capacity%20Building.html) |
+| 2019-2020 | Accra, Ghana and Lusaka, Zambia | Census cartography planning | Supported the National Statistical Offices in both Ghana and Zambia in the use of geospatial tools for digital cartography. Worked with both organizations to design, implement, and train users on tools to speed up census cartography |
+| 2018 | Saint Vincent and the Grenadines | OpenStreetMap for governments | Trained country counterparts in St. Vincent to use OSM across the government portfolio |
+    
+# Project Experience
+| Year | Title | Description | My role |
+| --- | --- | --- |
+| 2026 | [World Bank administrative boundaries (WB-GAD)](https://github.com/worldbank/WB_GAD) | Published the World Bank's first open repository of administrative boundaries at level 0, 1, 2. | Oversaw procurement, development, and deployment of dataset |
+| 2025 | [Distributed Renewable Energy Atlas](https://dre.energydata.info/) | Provides detailed, settlement-level information for planning off-grid electrification solutions | Supported design, procurement, and deployment |
+| 2024 | [Global Electrification Platform](https://electrifynow.energydata.info/) | Provides access to ~100 least-cost electrification scenarios | Has managed the project since inception, manage the data and platform. Develop and devliver data science training on the underlying OnSSET model |
+| 2019 - 2025 | [GOST](https://worldbank.github.io/GOST/README.html) | GOST is the geospatial hub of the World Bank | Built and managed the GOST team since inception in 2016. |  

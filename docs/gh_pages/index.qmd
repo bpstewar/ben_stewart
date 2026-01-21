@@ -1,0 +1,17 @@
+---
+title: "Benjamin P. Stewart"
+---
+<img align="left" src="images/ben_headshot.jpg" width="250" height="350" style="margin: 10px;">
+My name is Ben, I am a geographer with over 20 years of professional experience in geospatial analysis, data science, remote sensing and project management. I have worked in Academia, software development, and have spent most of my career pioneering the use of geospatial data and analytics at the World Bank.
+
+Please find my CV, list of projects, and a portfolio in the links above.
+
+## Personal History
+I am a Canadian, born and raised in Nova Scotia, but I currently reside in Washington, DC. My route to the World Bank, here in DC, took me to lots of different places. I did my undergraduate education at the University of King's College (Halifax, NS) in Biology and the History of Science and Technology, but didn't see a route forward through that work. I discovered the Centre of Geographic Sciences during my undergrad, and thought their one-year program on Geospatial Information Systems was a low-risk option that sounded interesting. At COGS I took my first classes in geography and computer programming and fell in love!
+
+Following my COGS education, I found a job with ESRI Canada in Ottawa, working with the Enterprise Solutions Group. We focused on developing custom ArcGIS extensions for our clients, and developed skills in business solutions, coding, and customer management. However, I realized my career would suffer long-term without more education, so I followed some of my friends from COGS to a Masters program at the University of Victoria. I did a one-year research assistant job, followed by a 2-year Masters program focused on grizzly bear habitat selection in relation to human disturbances. I loved my time at UVic, but Academia wasn't for me, so following my graduation in 2011, I took a short-term consulting position at the World Bank in Washington, DC.
+
+I had almost no knowledge of the World Bank before starting - I had never taken any courses in economics or international development. However, I joined at a great time as the World Bank was focused on open innovation, increasing its use and publication of data, and starting to investiagte earth observation data. I have worked on projects across the World Bank portfolio, and travelled to countries from Haiti to Nepal. 
+
+
+

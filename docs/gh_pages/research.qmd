@@ -1,0 +1,29 @@
+---
+title: "Resarch and Publications"
+---
+
+| Date | Type | Title |
+| --- | --- | --- |
+| 2025-10-28 | Blog Post | [Mapping Progress: How The World Bank Is Improving Access To Global Administrative Boundaries](https://blogs.worldbank.org/en/opendata/mapping-progress--how-the-world-bank-is-improving-access-to-glob) |
+| 2025-03-14 | Blog Post | [More Than Just Roads: Lessons From Tunisia's Transport Corridor Project](https://blogs.worldbank.org/en/arabvoices/more-than-just-roads-lessons-from-tunisia-s-transport-corridor-project) |
+| 2025-02-24 | Blog Post | [From Satellites To Solutions: Building Footprints As Infrastructure Microdata](https://blogs.worldbank.org/en/opendata/from-satellites-to-solutions--building-footprints-as-infrastruct) |
+| 2024-07-17 | Journal Article | [Lost in the dark: A survey of energy poverty from space](https://www.cell.com/joule/abstract/S2542-4351(24)00201-0) |
+| 2024-06-12 | Blog Post | [1.18 Billion Around The World Are Unable To Use Electricity](https://blogs.worldbank.org/en/opendata/1-18-billion-around-the-world-are-unable-to-use-electricity) |
+| 2024-02-27 | Blog Post | [Has Extreme Poverty Been Urbanized?](https://blogs.worldbank.org/en/developmenttalk/has-extreme-poverty-been-urbanized) |
+| 2024-02-22 | Blog Post | [When is a place urban? Applying a new method for defining urbanization to Africa](https://blogs.worldbank.org/en/developmenttalk/when-place-urban-applying-new-method-defining-urbanization-africa) |
+| 2023-11-27 | Policy Research Working Paper | [An Anatomy of Urbanization in Sub-Saharan Africa](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099415311272320571/null) |
+| 2022-07-12 | World Bank Brief | [Estimating Urban Poverty Consistently Across Countries](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099723007132220359/null) |
+| 2022-02-28 | Blog Post | [Using marine spatial data to inform development work and public policies](https://blogs.worldbank.org/en/opendata/using-marine-spatial-data-inform-development-work-and-public-policies) |
+| 2022-02-01 | Policy Research Working Paper | [Vulnerability Map for Response to the COVID-19 Epidemic : A Case Study on Indonesia](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/494341645205192202/null) |
+| 2021-01-21 | Blog Post | [Light Every Night – New nighttime light data set and tools for development](https://blogs.worldbank.org/en/opendata/light-every-night-new-nighttime-light-data-set-and-tools-development) |
+| 2020-11-01 | World Bank Poverty Assessment | [Ghana Poverty Assessment](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/342081605282543620/null) |
+| 2020-01-21 | Blog Post | [Shedding light on least-cost electrification strategies: the Global Electrification Platform](https://blogs.worldbank.org/en/opendata/shedding-light-least-cost-electrification-strategies-global-electrification-platform) |
+| 2018-06-26 | Blog Post | [Need better maps? Take it to the crowd!](https://blogs.worldbank.org/en/digital-development/need-better-maps-take-it-crowd) |
+| 2017-06-01 | Policy Research Working Paper | [Greater Maputo : urban poverty and inclusive growth](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/813461525417156845/null) |
+| 2017-03-30 | Policy Research Working Paper | [Urbanization and development : is Latin America and the Caribbean different from the rest of the world?](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/164251490903580662/null) |
+| 2015-11-16 | Policy Research Working Paper | [Nighttime lights revisited : the use of nighttime lights data as a proxy for economic variables](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/613891468195568648/null) |
+| 2014 | Journal Article | [Oil and gas infrastructure and the spatial pattern of grizzly bear habitat selection in Alberta, Canada](https://onlinelibrary.wiley.com/doi/abs/10.1111/cag.12066) |
+| 2013 | Journal Article | [Quantifying grizzly bear selection of natural and anthropogenic edges](https://wildlife.onlinelibrary.wiley.com/doi/abs/10.1002/jwmg.535) |
+| 2012 | Journal Article | [Impact of disturbance characteristics and age on grizzly bear habitat selection](https://www.sciencedirect.com/science/article/pii/S0143622812000227) |
+| 2009 | Journal Article | [Disturbance capture and attribution through the integration of Landsat and IRS-1C imagery](https://www.tandfonline.com/doi/abs/10.5589/m10-006) |
+| 2009 | Journal Article | [Remote sensing derived edge location, magnitude, and class transitions for ecological studies](https://www.tandfonline.com/doi/abs/10.5589/m10-007) |

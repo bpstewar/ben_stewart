@@ -1,0 +1,29 @@
+---
+title: "Curriculum Vitae"
+---
+
+# About me
+I am a dedicated geospatial data scientist and project manager with 20 years of experience focusing on how to translate ideas into actionable insight through geospatial analysis.
+
+# Work Experience
+| When | Title | Supervisor(s) | Location |
+| --- | --- | --- | --- |
+| November 2011 - Present | Sr. Geographer | Keith Garrett, Umar Serajuddin | Washington, DC |
+| 2008 - 2011 | Research Assistant | Dr. Mike Wulder, Dr. Trisalyn Nelson | Victoria, BC |
+| 2007 - 2008 | Software Development | Lathif Masood | Ottawa, ON |
+
+# Educational History
+| When | School | Degree |
+| --- | --- | --- |
+| 2009 - 2011 | Univesity of Victoria | Master of Science in Geography |
+| 2006 - 2007 | Centre of Geograhic Sciences (nscc) | Advanced Diploma in Geographic Information Systems |
+| 2002 - 2006 | University of King's College/Dalhousie University | BSc, Combined Honours in Biology and the History of Science and Technology |
+
+# Skills Inventory
+| Work Skills | Technical Knowledge | Subject Knowledge |
+| --- | --- | --- |
+| **Management** - currently manage the World Bank's Geospatial Operations Support Team (GOST). Coordinate the work of 6 geographers, while developing the World Bank's geospatial strategy. | Geospatial and earth observation data science | Geography and development: how to leverage geospatial insight in development projects |
+| Experienced in independent work and project design | Python (expert), R (intermediate), Github (expert), Jupyter/Jupyter-book/Quarto (intermediate) | Big data processing, data management, and computation |
+
+
+
