@@ -1,42 +1,42 @@
 [
   {
-    "objectID": "docs/teaching.html",
-    "href": "docs/teaching.html",
+    "objectID": "quarto_docs/teaching.html",
+    "href": "quarto_docs/teaching.html",
     "title": "Benjamin P. Stewart",
     "section": "",
     "text": "Lorem Ipsum"
   },
   {
-    "objectID": "docs/projects.html",
-    "href": "docs/projects.html",
+    "objectID": "quarto_docs/projects.html",
+    "href": "quarto_docs/projects.html",
     "title": "Project, tools, platforms etc.",
     "section": "",
     "text": "Tools and libraries\nIn addition to several libraries below, I have administered the World Bank’s organizational Github account for a decade, including through the recent transition to an enterprise solution.\n\n\n\nType\nTitle\nDescription\n\n\n\n\nDatabase and toolset\nSpace2Stats\nProvide academics, statisticians, and data scientists with easier access to regularly requested geospatial aggregate data\n\n\nPython library\nGOSTnets and GOSTnetsraster\nMarket access tools using vector and raster analysis\n\n\nPython library\nGOSTurban\nImplementation of the GHS-SMOD classification tools in python\n\n\n\n\n\nTraining, teaching, and courses\n\n\n\nDate\nLocation\nTitle\nDescription\n\n\n\n\n2026\nWashington, DC\nGeospatial Masterclass (Link TBD)\nDeveloped and managed a series of trainings on geospati0al tools for data scientists at the World Bank\n\n\n2025\nRome, Italy\nSpaceborne EO Technology for Agricultural Data Workshop\nSupported the organization of the week-long event in collaboration with ESA GDA and the World Bank’s IED\n\n\n2024\nAccra, Ghana\nEMP-A: OnSSET electrification planning\nTrained government, academic, and private sector colleagues in the use of OnSSET for energy planning. This is the most recent training that is part of the Global Electrification Platform’s training program\n\n\n2019-2020\nAccra, Ghana and Lusaka, Zambia\nCensus cartography planning\nSupported the National Statistical Offices in both Ghana and Zambia in the use of geospatial tools for digital cartography. Worked with both organizations to design, implement, and train users on tools to speed up census cartography\n\n\n2018\nSaint Vincent and the Grenadines\nOpenStreetMap for governments\nTrained country counterparts in St. Vincent to use OSM across the government portfolio\n\n\n\n\n\nProject Experience\n\n\n\nYear\nTitle\nDescription\n\n\n\n\n2026\nWorld Bank administrative boundaries (WB-GAD)\nPublished the World Bank’s first open repository of administrative boundaries at level 0, 1, 2.\n\n\n2025\nDistributed Renewable Energy Atlas\nProvides detailed, settlement-level information for planning off-grid electrification solutions\n\n\n2024\nGlobal Electrification Platform\nProvides access to ~100 least-cost electrification scenarios\n\n\n2019 - 2025\nGOST\nGOST is the geospatial hub of the World Bank"
   },
   {
-    "objectID": "docs/about.html",
-    "href": "docs/about.html",
+    "objectID": "quarto_docs/about.html",
+    "href": "quarto_docs/about.html",
     "title": "Curriculum Vitae",
     "section": "",
     "text": "About me\nI am a dedicated geospatial data scientist and project manager with 20 years of experience focusing on how to translate ideas into actionable insight through geospatial analysis.\n\n\nWork Experience\n\n\n\n\n\n\n\n\n\nWhen\nTitle\nSupervisor(s)\nLocation\n\n\n\n\nNovember 2011 - Present\nSr. Geographer\nKeith Garrett, Umar Serajuddin\nWashington, DC\n\n\n2008 - 2011\nResearch Assistant\nDr. Mike Wulder, Dr. Trisalyn Nelson\nVictoria, BC\n\n\n2007 - 2008\nSoftware Development\nLathif Masood\nOttawa, ON\n\n\n\n\n\nEducational History\n\n\n\n\n\n\n\n\nWhen\nSchool\nDegree\n\n\n\n\n2009 - 2011\nUnivesity of Victoria\nMaster of Science in Geography\n\n\n2006 - 2007\nCentre of Geograhic Sciences (nscc)\nAdvanced Diploma in Geographic Information Systems\n\n\n2002 - 2006\nUniversity of King’s College/Dalhousie University\nBSc, Combined Honours in Biology and the History of Science and Technology\n\n\n\n\n\nSkills Inventory\n\n\n\n\n\n\n\n\nWork Skills\nTechnical Knowledge\nSubject Knowledge\n\n\n\n\nManagement - currently manage the World Bank’s Geospatial Operations Support Team (GOST). Coordinate the work of 6 geographers, while developing the World Bank’s geospatial strategy.\nGeospatial and earth observation data science\nGeography and development: how to leverage geospatial insight in development projects\n\n\nExperienced in independent work and project design\nPython (expert), R (intermediate), Github (expert), Jupyter/Jupyter-book/Quarto (intermediate)\nBig data processing, data management, and computation"
   },
   {
-    "objectID": "docs/index.html",
-    "href": "docs/index.html",
+    "objectID": "quarto_docs/index.html",
+    "href": "quarto_docs/index.html",
     "title": "Benjamin P. Stewart",
     "section": "",
     "text": "My name is Ben, I am a geographer with over 20 years of professional experience in geospatial analysis, data science, remote sensing and project management. I have worked in Academia, software development, and have spent most of my career pioneering the use of geospatial data and analytics at the World Bank.\nPlease find my CV, list of projects, and a portfolio in the links above."
   },
   {
-    "objectID": "docs/index.html#personal-history",
-    "href": "docs/index.html#personal-history",
+    "objectID": "quarto_docs/index.html#personal-history",
+    "href": "quarto_docs/index.html#personal-history",
     "title": "Benjamin P. Stewart",
     "section": "Personal History",
     "text": "Personal History\nI am a Canadian, born and raised in Nova Scotia, but I currently reside in Washington, DC. My route to the World Bank, here in DC, took me to lots of different places. I did my undergraduate education at the University of King’s College (Halifax, NS) in Biology and the History of Science and Technology, but didn’t see a route forward through that work. I discovered the Centre of Geographic Sciences during my undergrad, and thought their one-year program on Geospatial Information Systems was a low-risk option that sounded interesting. At COGS I took my first classes in geography and computer programming and fell in love!\nFollowing my COGS education, I found a job with ESRI Canada in Ottawa, working with the Enterprise Solutions Group. We focused on developing custom ArcGIS extensions for our clients, and developed skills in business solutions, coding, and customer management. However, I realized my career would suffer long-term without more education, so I followed some of my friends from COGS to a Masters program at the University of Victoria. I did a one-year research assistant job, followed by a 2-year Masters program focused on grizzly bear habitat selection in relation to human disturbances. I loved my time at UVic, but Academia wasn’t for me, so following my graduation in 2011, I took a short-term consulting position at the World Bank in Washington, DC.\nI had almost no knowledge of the World Bank before starting - I had never taken any courses in economics or international development. However, I joined at a great time as the World Bank was focused on open innovation, increasing its use and publication of data, and starting to investiagte earth observation data. I have worked on projects across the World Bank portfolio, and travelled to countries from Haiti to Nepal."
   },
   {
-    "objectID": "docs/research.html",
-    "href": "docs/research.html",
+    "objectID": "quarto_docs/research.html",
+    "href": "quarto_docs/research.html",
     "title": "Resarch and Publications",
     "section": "",
     "text": "Date\nType\nTitle\n\n\n\n\n2025-10-28\nBlog Post\nMapping Progress: How The World Bank Is Improving Access To Global Administrative Boundaries\n\n\n2025-03-14\nBlog Post\nMore Than Just Roads: Lessons From Tunisia’s Transport Corridor Project\n\n\n2025-02-24\nBlog Post\nFrom Satellites To Solutions: Building Footprints As Infrastructure Microdata\n\n\n2024-07-17\nJournal Article\nLost in the dark: A survey of energy poverty from space\n\n\n2024-06-12\nBlog Post\n1.18 Billion Around The World Are Unable To Use Electricity\n\n\n2024-02-27\nBlog Post\nHas Extreme Poverty Been Urbanized?\n\n\n2024-02-22\nBlog Post\nWhen is a place urban? Applying a new method for defining urbanization to Africa\n\n\n2023-11-27\nPolicy Research Working Paper\nAn Anatomy of Urbanization in Sub-Saharan Africa\n\n\n2022-07-12\nWorld Bank Brief\nEstimating Urban Poverty Consistently Across Countries\n\n\n2022-02-28\nBlog Post\nUsing marine spatial data to inform development work and public policies\n\n\n2022-02-01\nPolicy Research Working Paper\nVulnerability Map for Response to the COVID-19 Epidemic : A Case Study on Indonesia\n\n\n2021-01-21\nBlog Post\nLight Every Night – New nighttime light data set and tools for development\n\n\n2020-11-01\nWorld Bank Poverty Assessment\nGhana Poverty Assessment\n\n\n2020-01-21\nBlog Post\nShedding light on least-cost electrification strategies: the Global Electrification Platform\n\n\n2018-06-26\nBlog Post\nNeed better maps? Take it to the crowd!\n\n\n2017-06-01\nPolicy Research Working Paper\nGreater Maputo : urban poverty and inclusive growth\n\n\n2017-03-30\nPolicy Research Working Paper\nUrbanization and development : is Latin America and the Caribbean different from the rest of the world?\n\n\n2015-11-16\nPolicy Research Working Paper\nNighttime lights revisited : the use of nighttime lights data as a proxy for economic variables\n\n\n2014\nJournal Article\nOil and gas infrastructure and the spatial pattern of grizzly bear habitat selection in Alberta, Canada\n\n\n2013\nJournal Article\nQuantifying grizzly bear selection of natural and anthropogenic edges\n\n\n2012\nJournal Article\nImpact of disturbance characteristics and age on grizzly bear habitat selection\n\n\n2009\nJournal Article\nDisturbance capture and attribution through the integration of Landsat and IRS-1C imagery\n\n\n2009\nJournal Article\nRemote sensing derived edge location, magnitude, and class transitions for ecological studies"

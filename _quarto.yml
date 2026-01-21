@@ -1,24 +1,24 @@
 project:
   type: website
-  output-dir: gh-pages
+  output-dir: docs
 
 website:
   title: "Benjamin P. Stewart"
   navbar:
     left:
-      - href: docs/index.qmd
+      - href: quarto_docs/index.qmd
         text: Home
-      - href: docs/about.qmd
+      - href: quarto_docs/about.qmd
         text: Curriculum Vitae
-      - href: docs/research.qmd
+      - href: quarto_docs/research.qmd
         text: Publications
-      - href: docs/projects.qmd
+      - href: quarto_docs/projects.qmd
         text: Projects
 
 format:
   html:
     theme:
-      - vapor      
+      - cosmo      
     css: styles.css
     toc: true
 
