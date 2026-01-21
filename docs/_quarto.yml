@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Benjamin P. Stewart"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Curriculum Vitae
+      - href: research.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+
+format:
+  html:
+    theme:
+      - vapor      
+    css: styles.css
+    toc: true
+
+
+
